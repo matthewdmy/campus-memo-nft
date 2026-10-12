@@ -1,0 +1,19 @@
+{
+  "name": "Campus-Memo · Lv2 Pilot",
+  "description": "HKU Drone Club limited-edition commemorative NFT (max 10). Lv2 Pilot badge. Upgraded by burning another 50 CPT.",
+  "image": "https://raw.githubusercontent.com/matthewdmy/campus-memo-nft/main/lv2.png",
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": 2
+    },
+    {
+      "trait_type": "Rank",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Club",
+      "value": "HKU Drone Club"
+    }
+  ]
+}

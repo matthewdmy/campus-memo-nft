@@ -1,0 +1,19 @@
+{
+  "name": "Campus-Memo · Lv3 Ace",
+  "description": "HKU Drone Club limited-edition commemorative NFT (max 10). Lv3 Ace badge, the highest level. Upgraded by burning another 100 CPT.",
+  "image": "https://raw.githubusercontent.com/matthewdmy/campus-memo-nft/main/lv3.png",
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": 3
+    },
+    {
+      "trait_type": "Rank",
+      "value": "Ace"
+    },
+    {
+      "trait_type": "Club",
+      "value": "HKU Drone Club"
+    }
+  ]
+}

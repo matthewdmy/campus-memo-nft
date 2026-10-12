@@ -1,0 +1,19 @@
+{
+  "name": "Campus-Memo · Lv1 Rookie",
+  "description": "HKU Drone Club limited-edition commemorative NFT (max 10). Lv1 Rookie badge. Minted by burning 100 CPT.",
+  "image": "https://raw.githubusercontent.com/matthewdmy/campus-memo-nft/main/lv1.png",
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": 1
+    },
+    {
+      "trait_type": "Rank",
+      "value": "Rookie"
+    },
+    {
+      "trait_type": "Club",
+      "value": "HKU Drone Club"
+    }
+  ]
+}
